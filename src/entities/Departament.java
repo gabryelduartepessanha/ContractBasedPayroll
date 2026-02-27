@@ -7,8 +7,8 @@ public class Departament {
 
     }
 
-    public Departament(String nanem) {
-        this.name = nanem;
+    public Departament(String name) {
+        this.name = name;
     }
 
     public String getName() {
